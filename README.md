@@ -1,21 +1,12 @@
 <hr/>
 <h1 align="center">Introduction</h1>
-<br/>
-
-
 <h2 align="center">Hi 👋! My name is Umar and I'm a final year Computer Science student at NUST, SEECS.</h2>
-
-
-
 <h3 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h3>
-
-
 <br/>
 <hr/>
+
 <h1 align="center">Connect With Me</h1>
-
-
-
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/umar-tariq-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
@@ -27,15 +18,13 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
   </a>
 </div>
+<br/>
+<hr/>
 
-
-
+<hr>
 <h1 align="center">Tech Stack</h1>
 <br/>
-
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -64,8 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-
-
+<hr/>
 <h1 align="center">Stats</h1>
 <br/>
 
