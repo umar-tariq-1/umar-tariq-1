@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=umar-tariq-1&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D" height="175" alt="streak graph" /> <br>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umar-tariq-1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&custom_title=Used%20Languages" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umar-tariq-1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&custom_title=Used%20Languages" height="165" alt="languages graph"  />
 </div>
 <br/>
 
