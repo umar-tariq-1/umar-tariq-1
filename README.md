@@ -1,3 +1,4 @@
+<br/>
 <h1 align="center">Introduction</h1>
 <br/>
 
@@ -9,7 +10,7 @@
 <h3 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h3>
 
 
-
+<br/>
 <h1 align="center">Connect With Me</h1>
 <br/>
 
