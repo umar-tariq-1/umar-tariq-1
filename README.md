@@ -23,7 +23,6 @@
 <hr/>
 <h1 align="center">Tech Stack</h1>
 <br/>
-<br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -71,4 +70,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/umar-tariq-1/umar-tariq-1/output/snake.svg" alt="Snake animation" />
+<br>
 <hr/>
