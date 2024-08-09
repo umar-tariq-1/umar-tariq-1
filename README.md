@@ -56,15 +56,14 @@
 <hr/>
 <h1 align="center">Stats</h1>
 <br/>
-
-<hr/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=umar-tariq-1&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" /> <br>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umar-tariq-1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&custom_title=Used%20Languages" height="170" alt="languages graph"  />
 </div>
+<br/>
 
-
-
+<hr/>
 <h1 align="center">Contributions</h1>
 <br/>
 
@@ -72,5 +71,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/umar-tariq-1/umar-tariq-1/output/snake.svg" alt="Snake animation" />
-
-
+<hr/>
