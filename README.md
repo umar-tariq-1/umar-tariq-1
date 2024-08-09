@@ -68,7 +68,7 @@
 <h1 align="center">Contributions</h1>
 <br/>
 <div align="center">
-  <img src="https://ghchart.rshah.org/umar-tariq-1" alt="Contribution Graph" width="797" height="125" />
+  <img src="https://ghchart.rshah.org/umar-tariq-1" alt="Contribution Graph" width="797"/>
 </div>
 <br>
 <hr/>
