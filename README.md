@@ -1,4 +1,4 @@
-<br/>
+<hr/>
 <h1 align="center">Introduction</h1>
 <br/>
 
@@ -11,8 +11,9 @@
 
 
 <br/>
+<hr/>
 <h1 align="center">Connect With Me</h1>
-<br/>
+
 
 
 <div align="center">
