@@ -67,6 +67,8 @@
 <hr/>
 <h1 align="center">Contributions</h1>
 <br/>
-<img src="https://raw.githubusercontent.com/umar-tariq-1/umar-tariq-1/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/umar-tariq-1" alt="Contribution Graph" />
+</div>
 <br>
 <hr/>
