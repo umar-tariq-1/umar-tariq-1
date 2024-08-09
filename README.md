@@ -1,5 +1,5 @@
 <hr/>
-<h1 align="center">Introduction</h1>
+<h1 align="center">About Me</h1>
 <h2 align="center">Hi 👋! My name is Umar and I'm a final year Computer Science student at NUST, SEECS.</h2>
 <h3 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h3>
 <br/>
