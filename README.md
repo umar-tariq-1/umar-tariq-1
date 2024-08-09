@@ -67,6 +67,6 @@
 <hr/>
 <h1 align="center">Contributions</h1>
 <br/>
-![Umar's GitHub contributions](https://github-readme-stats.vercel.app/api?username=umar-tariq-1&show_icons=true&theme=default&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+! [Umar's GitHub contributions](https://github-readme-stats.vercel.app/api?username=umar-tariq-1&show_icons=true&theme=default&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 <br>
 <hr/>
