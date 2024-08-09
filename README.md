@@ -1,9 +1,17 @@
-<h3 align="center">Hi 👋! My name is Umar and I'm a final year Computer Science student at NUST, SEECS.</h3>
+<h1 align="center">Introduction</h1>
+<br/>
+###
+
+<h2 align="center">Hi 👋! My name is Umar and I'm a final year Computer Science student at NUST, SEECS.</h2>
 
 ###
 
-<h4 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h4>
+<h3 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h3>
 
+###
+
+<h1 align="center">Connect With Me</h1>
+<br/>
 ###
 
 <div align="center">
@@ -18,6 +26,10 @@
   </a>
 </div>
 
+###
+
+<h1 align="center">Tech Stack</h1>
+<br/>
 ###
 
 <br clear="both">
@@ -52,11 +64,19 @@
 
 ###
 
+<h1 align="center">Stats</h1>
+<br/>
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=umar-tariq-1&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umar-tariq-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<h1 align="center">Contributions</h1>
+<br/>
 ###
 
 <br clear="both">
