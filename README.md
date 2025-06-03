@@ -1,7 +1,7 @@
 <hr/>
 <h1 align="center">About Me</h1>
-<h2 align="center">Hi 👋! My name is Umar and I'm a fresh Computer Science graduate from NUST, SEECS.</h2>
-<h3 align="center">I love to develop beautiful and user-friendly Web, Android, IOS and Window applications.</h3>
+<h2 align="center">Hi 👋! I am Umer, fresh Computer Science graduate from NUST, SEECS.</h2>
+<h3 align="center">I love to develop beautiful, user-friendly and scaleable Web, Android, IOS and Windows applications.</h3>
 <br/>
 <hr/>
 
